@@ -9,3 +9,4 @@ class
 class.c
 sort
 Union_Find
+.gitignore
